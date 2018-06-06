@@ -6,3 +6,5 @@ This a third change to the file.
 
 Git is a version control system that prevent us from having the 'final 
 doc' problem.
+
+Git taks snapshots of the entire repository for us to revert back to.
