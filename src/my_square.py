@@ -1,7 +1,7 @@
-def my_square(x):
-#  comments ..
+def my_square(z):
+#  comments1 ..
 # another comments..
 
-	return(x**2)
+	return(z**2)
 
-print(my_square(4))
+print(my_square(24))
